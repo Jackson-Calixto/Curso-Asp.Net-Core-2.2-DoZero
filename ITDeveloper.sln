@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{EF32495D-E2D2-4F58-9ECC-2D7F80178800}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{DA24AE9B-B081-4922-BD2D-F44DA53CD7F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{F3444832-5F80-4C6D-9354-6D866A62422D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infra", "4.Infra", "{2377A492-5D87-4B13-BA97-2DF8F37D6A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.ITDeveloper.Mvc", "Cooperchip.ITDeveloper.Mvc\Cooperchip.ITDeveloper.Mvc.csproj", "{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD00ADA1-6FF5-4CA1-9E73-E659FAE31D79} = {EF32495D-E2D2-4F58-9ECC-2D7F80178800}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CFD855-DBC0-4521-AEA6-380C34838B4C}
+	EndGlobalSection
+EndGlobal
