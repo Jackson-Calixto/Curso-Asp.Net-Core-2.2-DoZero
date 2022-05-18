@@ -17,5 +17,19 @@
       "wwwroot/plugins/charts/flot/jquery.flot.time.js",
       "wwwroot/plugins/charts/flot/jquery.flot.tooltip.js"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/core.js",
+    "inputFiles": [
+      "wwwroot/js/bootstrap/bootstrap.js",
+      "wwwroot/js/libs/modernizr.custom.js",
+      "wwwroot/js/jRespond.min.js",
+      "wwwroot/plugins/core/slimscroll/jquery.slimscroll.min.js",
+      "wwwroot/plugins/core/slimscroll/jquery.slimscroll.horizontal.min.js",
+      "wwwroot/plugins/core/fastclick/fastclick.js",
+      "wwwroot/plugins/core/velocity/jquery.velocity.min.js",
+      "wwwroot/plugins/core/quicksearch/jquery.quicksearch.js",
+      "wwwroot/plugins/ui/bootbox/bootbox.js"
+    ]
   }
 ]
