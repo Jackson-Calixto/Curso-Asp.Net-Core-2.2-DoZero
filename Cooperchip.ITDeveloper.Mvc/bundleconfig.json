@@ -31,5 +31,25 @@
       "wwwroot/plugins/core/quicksearch/jquery.quicksearch.js",
       "wwwroot/plugins/ui/bootbox/bootbox.js"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/core.dashboard.js",
+    "inputFiles": [
+      "wwwroot/plugins/charts/sparklines/jquery.sparkline.js",
+      "wwwroot/plugins/charts/progressbars/progressbar.js",
+      "wwwroot/plugins/ui/waypoint/waypoints.js",
+      "wwwroot/plugins/ui/weather/skyicons.js",
+      "wwwroot/plugins/ui/notify/jquery.gritter.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/core.css",
+    "inputFiles": [
+      "wwwroot/css/icons.css",
+      "wwwroot/css/bootstrap.css",
+      "wwwroot/css/plugins.css",
+      "wwwroot/css/main.css",
+      "wwwroot/css/custom.css"
+    ]
   }
 ]
